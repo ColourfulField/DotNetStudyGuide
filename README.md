@@ -1,3 +1,6 @@
-# My Awesome Book
+# Основы программирования
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+В этом разделе описаны базовые принципы программирования 
+
+
+
