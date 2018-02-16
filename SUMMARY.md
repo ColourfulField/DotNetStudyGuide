@@ -6,6 +6,8 @@
   * [Паттерны проектированя](design-patters.md)
   * [Стандарты написания кода](coding-standards.md)
   * [Workflow](workflow.md)
+  * [IDE](ide.md)
+  * [VCS](vcs.md)
 * [Основы C\#](fundamentals.md)
 * [Базы Данных](databases.md)
   * [SQL ](databases/database-types.md)
