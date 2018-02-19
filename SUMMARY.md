@@ -11,11 +11,10 @@
 * [Основы C\#](fundamentals.md)
 * [Базы Данных](databases.md)
   * [SQL ](databases/database-types.md)
-    * [Базовые принципы](databases/database-types/bazovie-printsipi.md)
     * [Основные запросы](databases/database-types/osnovnie-zaprosi.md)
-    * Агрегатные функции
-    * Нормализация, ACID
-    * Хранимые процедуры, Триггеры, Представления
+    * [Нормализация](databases/database-types/normalizatsiya-acid.md)
+    * [Транзакции](databases/database-types/transactions.md)
+    * [Хранимые процедуры, Триггеры, Представления](databases/database-types/hranimie-protseduri-triggeri-predstavleniya.md)
   * [ORM](databases/orm.md)
     * [Entity Framework](databases/entity-framework.md)
     * [Dapper](databases/dapper.md)
