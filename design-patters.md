@@ -1,21 +1,15 @@
 Паттерны проектирования с примерами на C\# можно найти в следующем разделе метанита:  
-https://metanit.com/sharp/patterns/1.1.php
-
-
+[https://metanit.com/sharp/patterns/1.1.php](https://metanit.com/sharp/patterns/1.1.php)
 
 Чуть более "по-простому" они описаны вот на этих ресурсах, но примеры в них приведены на PHP. Если это не создаёт проблем, то рекомендую ознакомиться именно с этим туториалом:
 
-https://tproger.ru/translations/design-patterns-simple-words-1/
+[https://tproger.ru/translations/design-patterns-simple-words-1/](https://tproger.ru/translations/design-patterns-simple-words-1/)
 
-https://tproger.ru/translations/design-patterns-simple-words-2/
+[https://tproger.ru/translations/design-patterns-simple-words-2/](https://tproger.ru/translations/design-patterns-simple-words-2/)
 
-https://tproger.ru/translations/design-patterns-simple-words-3/
-
-
+[https://tproger.ru/translations/design-patterns-simple-words-3/](https://tproger.ru/translations/design-patterns-simple-words-3/)
 
 Стоит помнить , что паттерны проектирования - это не магические инструмент, который поможет решить все проблемы при разработке программ. Их стоит изучать и потихоньку пытаться применять в подходящих ситуациях на протяжении длительного времени, пока не выработается автоматическое понимание того, где и когда они применяются. С довольно большой вероятностью, следуя принципам SOLID и DRY \(описаны в следующем разделе\), вы будете их применять даже сами того не зная :\)
-
-
 
 Довольно часто бывает сложно с нуля запомнить и выучить сразу все паттерны, поэтому в самом начале советуется сконцентрироваться на самых основных:
 
@@ -25,6 +19,7 @@ https://tproger.ru/translations/design-patterns-simple-words-3/
 * Фасад \(Facade\)
 * Заместитель \(Proxy\)
 * Наблюдатель \(Observer\)
-* 
-Для полных академических знаний - однозначно стоит прочитать "**Приёмы объектно-ориентированного проектирования. Паттерны проектирования" **от Gang of Four \(Банды четырёх\)
+* Для полных академических знаний - однозначно стоит прочитать "**Приёмы объектно-ориентированного проектирования. Паттерны проектирования" **от Gang of Four \(Банды четырёх\)
+
+
 
