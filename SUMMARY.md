@@ -17,7 +17,6 @@
     * [Прочие структуры БД](databases/database-types/hranimie-protseduri-triggeri-predstavleniya.md)
   * [ORM](databases/orm.md)
     * [Entity Framework](databases/entity-framework.md)
-    * [Dapper](databases/dapper.md)
   * [Практика](databases/practice.md)
 * [Web](net.md)
   * [HTTP,  REST](net/http-vs-soap-rest.md)
