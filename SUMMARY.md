@@ -14,7 +14,7 @@
     * [Основные запросы](databases/database-types/osnovnie-zaprosi.md)
     * [Нормализация](databases/database-types/normalizatsiya-acid.md)
     * [Транзакции](databases/database-types/transactions.md)
-    * [Хранимые процедуры, Триггеры, Представления](databases/database-types/hranimie-protseduri-triggeri-predstavleniya.md)
+    * [Прочие структуры БД](databases/database-types/hranimie-protseduri-triggeri-predstavleniya.md)
   * [ORM](databases/orm.md)
     * [Entity Framework](databases/entity-framework.md)
     * [Dapper](databases/dapper.md)
