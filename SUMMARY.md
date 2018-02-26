@@ -27,7 +27,6 @@
       * [Dependency injection](net/architecture/dependency-injection.md)
       * [Многоуровневая архитектура](net/architecture/mnogourovnevaya-arhitektura.md)
       * [Практическая Задача](net/architecture/prakticheskaya-zadacha.md)
-  * [Логгирование](net/loggirovanie.md)
   * [Обработка исключений](net/globalnii-hendling-oshibok.md)
   * [Security](net/security.md)
     * [Authentication, Authorizarion](net/security/authentication-authorization.md)
@@ -40,5 +39,4 @@
 * [Desktop](desktop.md)
 * [Возможные вопросы на собеседования](vozmozhnie-voprosi-na-sobesedovaniya.md)
   * [Web](vozmozhnie-voprosi-na-sobesedovaniya/web.md)
-* [Заключительные слова](zaklyuchitelnie-slova.md)
 
