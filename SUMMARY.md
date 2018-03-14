@@ -3,7 +3,7 @@
 * [Основы программирования](README.md)
   * [ООП](oop.md)
   * [Структуры данных и алгоритмы](data-structures.md)
-  * [Паттерны проектированя](design-patters.md)
+  * [Паттерны проектирования](design-patters.md)
   * [Стандарты написания кода](coding-standards.md)
   * [Workflow](workflow.md)
   * [IDE](ide.md)

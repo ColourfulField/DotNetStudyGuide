@@ -1,6 +1,6 @@
-Хороший цикл статей описывающий главные принципы ООП с примерами: 
+Хороший цикл статей, в которых описаны  главные принципы ООП с примерами:
 
-[Часть 1](https://tproger.ru/translations/diving-in-oop-p1/) 
+[Часть 1](https://tproger.ru/translations/diving-in-oop-p1/)
 
 [Часть 2](https://tproger.ru/translations/diving-in-oop-p2/)
 
