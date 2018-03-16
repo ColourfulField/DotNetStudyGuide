@@ -34,7 +34,7 @@
   * [Security](net/security.md)
     * [Authentication, Authorizarion](net/security/authentication-authorization.md)
     * [SQL Injections](net/security/sql-injections.md)
-    * [XSS, XSRF](net/security/xss.md)
+    * [XSS, CSRF](net/security/xss.md)
     * [Шифрование, Хеширование](net/security/shifrovanie.md)
   * [Tools](net/tools.md)
   * [Работа в команде с фронт-ендщиками](net/rabota-v-komande-s-front-endschikami.md)

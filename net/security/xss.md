@@ -9,7 +9,7 @@ XSS \(Cross-site scripting\) - одна из базовых атак на сай
 
 Крупные Front-end фреймворки вроде Angular или React имеют встроенную защиту от XSS-атак.
 
-XSRF - ещё один популярный вид атак на веб-сайты. Подробнее с методами защиты от них можно ознакомиться тут: [https://habrahabr.ru/post/318748/](https://habrahabr.ru/post/318748/)
+CSRF - ещё один популярный вид атак на веб-сайты. Подробнее с методами защиты от них можно ознакомиться тут: [https://habrahabr.ru/post/318748/](https://habrahabr.ru/post/318748/)
 
 А здесь можно почитать о том, как с этим видом атак борется ASP.NET MVC \(английский\): [https://docs.microsoft.com/en-us/aspnet/mvc/overview/security/xsrfcsrf-prevention-in-aspnet-mvc-and-web-pages](https://docs.microsoft.com/en-us/aspnet/mvc/overview/security/xsrfcsrf-prevention-in-aspnet-mvc-and-web-pages)
 
