@@ -6,7 +6,7 @@
 
 Для того, чтобы перестать зависеть от настроек IIS'a, а также иметь единое место логгирования ошибок, стоит написать глобальный обработчик ошибок \(Global exception handler\).
 
-Для ознакомления с общими методами обработки ошибок рекомендую прочитать эту статью:  
+Для ознакомления с общими методами обработки ошибок рекомендуем прочитать эту статью:  
 [https://www.codeproject.com/Articles/850062/Exception-handling-in-ASP-NET-MVC-methods-explaine](https://www.codeproject.com/Articles/850062/Exception-handling-in-ASP-NET-MVC-methods-explaine)
 
 Глобальный обработчик в статье описан в пункте 6.
