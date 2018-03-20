@@ -26,7 +26,7 @@
 
   * Dependency inversion - воспользуйтесь одним из контейнеров для Dependency Injection\(DI\) в ASP.NET \(использование DI контейнеров будет описано в разделе ASP.NET\)
 
-* Именуйте переменные и классы понятно! Никаких "a" и "temp", как можно меньше переменных типа "data",  "myList", и т.д. Советую почитать [этот свод советов](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions) или [официальный набор доков по правилам именования](https://msdn.microsoft.com/ru-ru/library/ms229002.aspx)
+* Именуйте переменные и классы понятно! Никаких "a" и "temp", как можно меньше переменных типа "data",  "myList" и т.д. Советую почитать [этот свод советов](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions) или [официальный набор доков по правилам именования](https://msdn.microsoft.com/ru-ru/library/ms229002.aspx)
 
 P.S. стремитесь к тому, чтобы на [этой картинке](http://www.osnews.com/images/comics/wtfm.jpg) ваш код оценивался за левой дверью
 
