@@ -1,6 +1,6 @@
 **Общие основы C\#**
 
-Прочитайте книгу "Карманный справочник по C\# 6.0." \([http://mirknig.su/knigi/programming/16081-c-60-karmannyy-spravochnik-fayly.html](http://mirknig.su/knigi/programming/16081-c-60-karmannyy-spravochnik-fayly.html)\)
+Прочитайте книгу "Карманный справочник по C\# 6.0." \(В момент написания доступна по адресу:[ http://mirknig.su/knigi/programming/16081-c-60-karmannyy-spravochnik-fayly.html](/ http://mirknig.su/knigi/programming/16081-c-60-karmannyy-spravochnik-fayly.html)\)
 
 ##### Рефлексия
 
