@@ -41,7 +41,6 @@
   * [Практическая задача](net/prakticheskoe-zadanie.md)
 * [Desktop](desktop.md)
 * [Возможные вопросы на собеседования](vozmozhnie-voprosi-na-sobesedovaniya.md)
-* [Заключительные слова](zaklyuchitelnie-slova.md)
-  * [Список литературы для самостоятельного прочтения](zaklyuchitelnie-slova/spisok-literaturi-dlya-samostoyatelnogo-prochteniya.md)
-  * [Авторы](zaklyuchitelnie-slova/avtori.md)
+* [Список литературы для самостоятельного прочтения](zaklyuchitelnie-slova/spisok-literaturi-dlya-samostoyatelnogo-prochteniya.md)
+* [Авторы](zaklyuchitelnie-slova/avtori.md)
 
